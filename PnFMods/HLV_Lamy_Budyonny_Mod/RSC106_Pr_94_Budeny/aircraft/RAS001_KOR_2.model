@@ -1,0 +1,7 @@
+<RAS001_KOR_2.model>
+	<castsShadow>	true	</castsShadow>
+	<parent>	PnFMods/HLV_Lamy_Budyonny_Mod/RSC106_Pr_94_Budeny/aircraft/lods/RAS001_KOR_2_lod1	</parent>
+	<extent>	5.0000	</extent>
+	<nodefullVisual>	PnFMods/HLV_Lamy_Budyonny_Mod/RSC106_Pr_94_Budeny/aircraft/RAS001_KOR_2	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</RAS001_KOR_2.model>

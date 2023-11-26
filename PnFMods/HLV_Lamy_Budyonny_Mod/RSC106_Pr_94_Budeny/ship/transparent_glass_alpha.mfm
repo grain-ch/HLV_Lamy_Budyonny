@@ -1,0 +1,8 @@
+<transparent_glass_alpha.mfm>
+	<!--<fx>	shaders/materials/pbs/glass_material.fx	</fx>-->
+	<fx>	shaders/materials/pbs/glass_material.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/HLV_Lamy_Budyonny_Mod/RSC106_Pr_94_Budeny/ship/transparent_glass_alpha_a.dds	</Texture>
+	</property>
+</transparent_glass_alpha.mfm>
