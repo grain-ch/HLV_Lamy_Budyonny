@@ -2,7 +2,7 @@
 	<fx>	shaders/materials/pbs/propeller_material.fx	</fx>
 	<collisionFlags>	0	</collisionFlags>
 	<property>	diffuseMap
-		<Texture>	content/gameplay/common/textures/Japan_Disk_3Blade_03_alpha_a.dds	</Texture>
+		<Texture>	PnFMods/HLV_Lamy_Budyonny_Mod/RSC106_Pr_94_Budeny/aircraft/Japan_Disk_3Blade_03_alpha_a.dds	</Texture>
 	</property>
 	<property>	doubleSided
 		<Bool>	true	</Bool>

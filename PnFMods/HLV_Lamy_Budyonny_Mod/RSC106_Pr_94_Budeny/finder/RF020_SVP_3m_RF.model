@@ -1,7 +1,6 @@
 <RF020_SVP_3m_RF.model>
-	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/HLV_Lamy_Budyonny_Mod/RSC106_Pr_94_Budeny/finder/lods/RF020_SVP_3m_RF_lod1	</parent>
-	<extent>	2.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Lamy_Budyonny_Mod/RSC106_Pr_94_Budeny/finder/RF020_SVP_3m_RF	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/HLV_Lamy_Budyonny_Mod/RSC106_Pr_94_Budeny/finder/RF020_SVP_3m_RF.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </RF020_SVP_3m_RF.model>

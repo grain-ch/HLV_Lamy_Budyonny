@@ -1,7 +1,0 @@
-<RGM063_152mm_57_MK_5_dead_lod2.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/HLV_Lamy_Budyonny_Mod/RSC106_Pr_94_Budeny/gun/lods/RGM063_152mm_57_MK_5_dead_lod3	</parent>
-	<extent>	10.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Lamy_Budyonny_Mod/RSC106_Pr_94_Budeny/gun/lods/RGM063_152mm_57_MK_5_dead_lod2	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</RGM063_152mm_57_MK_5_dead_lod2.model>

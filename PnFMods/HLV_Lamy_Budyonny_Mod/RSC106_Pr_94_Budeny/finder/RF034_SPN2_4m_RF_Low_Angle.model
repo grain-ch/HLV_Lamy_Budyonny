@@ -1,7 +1,6 @@
 <RF034_SPN2_4m_RF_Low_Angle.model>
-	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/HLV_Lamy_Budyonny_Mod/RSC106_Pr_94_Budeny/finder/lods/RF034_SPN2_4m_RF_Low_Angle_lod1	</parent>
-	<extent>	3.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Lamy_Budyonny_Mod/RSC106_Pr_94_Budeny/finder/RF034_SPN2_4m_RF_Low_Angle	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/HLV_Lamy_Budyonny_Mod/RSC106_Pr_94_Budeny/finder/RF034_SPN2_4m_RF_Low_Angle.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </RF034_SPN2_4m_RF_Low_Angle.model>

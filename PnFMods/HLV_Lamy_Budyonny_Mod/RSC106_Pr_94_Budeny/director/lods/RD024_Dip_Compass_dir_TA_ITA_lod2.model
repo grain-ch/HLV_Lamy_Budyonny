@@ -1,7 +1,0 @@
-<RD024_Dip_Compass_dir_TA_ITA_lod2.model>
-	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/HLV_Lamy_Budyonny_Mod/RSC106_Pr_94_Budeny/director/lods/RD024_Dip_Compass_dir_TA_ITA_lod3	</parent>
-	<extent>	5.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Lamy_Budyonny_Mod/RSC106_Pr_94_Budeny/director/lods/RD024_Dip_Compass_dir_TA_ITA_lod2	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</RD024_Dip_Compass_dir_TA_ITA_lod2.model>

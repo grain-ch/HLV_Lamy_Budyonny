@@ -1,7 +1,6 @@
 <RGT071_533mm_PTA_5tubes.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/HLV_Lamy_Budyonny_Mod/RSC106_Pr_94_Budeny/gun/lods/RGT071_533mm_PTA_5tubes_lod1	</parent>
-	<extent>	3.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Lamy_Budyonny_Mod/RSC106_Pr_94_Budeny/gun/RGT071_533mm_PTA_5tubes	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/HLV_Lamy_Budyonny_Mod/RSC106_Pr_94_Budeny/gun/RGT071_533mm_PTA_5tubes.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </RGT071_533mm_PTA_5tubes.model>

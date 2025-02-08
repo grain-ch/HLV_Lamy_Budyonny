@@ -1,7 +1,6 @@
 <RSC021_Pr_94_Budeny_1944_Bow.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/HLV_Lamy_Budyonny_Mod/RSC106_Pr_94_Budeny/ship/lods/RSC021_Pr_94_Budeny_1944_Bow_lod1	</parent>
-	<extent>	8.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Lamy_Budyonny_Mod/RSC106_Pr_94_Budeny/ship/RSC021_Pr_94_Budeny_1944_Bow	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/HLV_Lamy_Budyonny_Mod/RSC106_Pr_94_Budeny/ship/RSC021_Pr_94_Budeny_1944_Bow.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </RSC021_Pr_94_Budeny_1944_Bow.model>

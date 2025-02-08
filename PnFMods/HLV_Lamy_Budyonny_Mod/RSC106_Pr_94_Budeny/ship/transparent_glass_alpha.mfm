@@ -1,5 +1,4 @@
 <transparent_glass_alpha.mfm>
-	<!--<fx>	shaders/materials/pbs/glass_material.fx	</fx>-->
 	<fx>	shaders/materials/pbs/glass_material.fx	</fx>
 	<collisionFlags>	0	</collisionFlags>
 	<property>	diffuseMap

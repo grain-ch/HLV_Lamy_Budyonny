@@ -1,18 +1,5 @@
 <RSC021_Pr_94_Budeny_1944.mfm>
-	<fx>	shaders/materials/pbs/ship_emissive_material.fx	</fx>
-	<collisionFlags>	0	</collisionFlags>
-	<property>	emissivePower
-		<Float>	0.8000	</Float>
-	</property>
-	<property>	doubleSided
-		<Bool>	false	</Bool>
-	</property>
-	<property>	alphaTestEnable
-		<Bool>	true	</Bool>
-	</property>
-	<property>	alphaReference
-		<Int>	150	</Int>
-	</property>
+	<fx>	shaders/materials/pbs/ship_material.fx	</fx>
 	<collisionFlags>	0	</collisionFlags>
 	<property>	ambientOcclusionMap
 		<Texture>	PnFMods/HLV_Lamy_Budyonny_Mod/RSC106_Pr_94_Budeny/ship/RSC021_Pr_94_Budeny_1944_ao.dds	</Texture>

@@ -1,7 +1,6 @@
 <RGB165_Depth_Charge_Shelving_BB_Long.model>
-	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/HLV_Lamy_Budyonny_Mod/RSC106_Pr_94_Budeny/gun/lods/RGB165_Depth_Charge_Shelving_BB_Long_lod1	</parent>
-	<extent>	4.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Lamy_Budyonny_Mod/RSC106_Pr_94_Budeny/gun/RGB165_Depth_Charge_Shelving_BB_Long	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/HLV_Lamy_Budyonny_Mod/RSC106_Pr_94_Budeny/gun/RGB165_Depth_Charge_Shelving_BB_Long.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </RGB165_Depth_Charge_Shelving_BB_Long.model>

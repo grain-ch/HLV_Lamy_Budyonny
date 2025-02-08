@@ -17,30 +17,21 @@
 		<Texture>	PnFMods/HLV_Lamy_Budyonny_Mod/RSC106_Pr_94_Budeny/finder/RF034_SPN2_4mRF_Low_Angle_n.dds	</Texture>
 	</property>
 	<property>	g_detailAlbedoInfluence
-		<Float>	0.0000	</Float>
+		<Float>	0.6000	</Float>
 	</property>
 	<property>	g_detailFadeDistance
-		<Float>	0.0000	</Float>
+		<Float>	3.0000	</Float>
 	</property>
 	<property>	g_detailGlossInfluence
-		<Float>	0.0000	</Float>
+		<Float>	1.0000	</Float>
 	</property>
 	<property>	g_detailNormalInfluence
-		<Float>	0.0000	</Float>
+		<Float>	0.4000	</Float>
 	</property>
 	<property>	g_detailScaleU
-		<Float>	0.0000	</Float>
+		<Float>	2.0000	</Float>
 	</property>
 	<property>	g_detailScaleV
-		<Float>	0.0000	</Float>
-	</property>
-	<property>	alphaTestEnable
-		<Bool>	true	</Bool>
-	</property>
-	<property>	alphaReference
-		<Int>	250	</Int>
-	</property>
-	<property>	doubleSided
-		<Bool>	true	</Bool>
+		<Float>	2.0000	</Float>
 	</property>
 </RF034_SPN2_4mRF_Low_Angle.mfm>
